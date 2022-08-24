@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width= "400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanpeters94&label=Profile%20views&color=0e75b6&style=flat" alt="ryanpeters94" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](Coming Soon)
+- 🔭 I’m currently working on My Portfolio (Coming Soon)
 
 - 🌱 I’m currently learning **React Native, PHP, TypeScript, DSAs**
 
@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with **Finding my first tech job**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at My Portfolio Site (Coming Soon)
 
 - 💬 Ask me about **React, JavaScript, PSQL**
 
