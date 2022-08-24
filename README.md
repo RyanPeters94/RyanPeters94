@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Peters</h1>
 <h3 align="center">A passionate Software Engineer from Santa Barbara, CA</h3>
-
+<img align="right" alt="Coding" width= "400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FcX92mi1p-NYAAAAd%2Fcoding-anime.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-anime-gif-24565564&tbnid=tnQyJq4sFEs_NM&vet=12ahUKEwjOzIfA_N_5AhXalmoFHQalAzEQMygAegUIARDzAQ..i&docid=Jc8W7KdL3w9KZM&w=640&h=436&q=anime%20coding%20gif&ved=2ahUKEwjOzIfA_N_5AhXalmoFHQalAzEQMygAegUIARDzAQ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanpeters94&label=Profile%20views&color=0e75b6&style=flat" alt="ryanpeters94" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio](Coming Soon)
