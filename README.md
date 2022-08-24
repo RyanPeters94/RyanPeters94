@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/96092908/186485816-cecb5bd4-7657-4600-83c8-21d8d4ea4e7a.png)
+](https://www.linkedin.com/in/ryan-ben-peters/)
 <h1 align="center">Hi 👋, I'm Ryan Peters</h1>
 <h3 align="center">A passionate Software Engineer from Santa Barbara, CA</h3>
 <img align="right" alt="Coding" width= "400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
