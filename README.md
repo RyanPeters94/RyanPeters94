@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a Cryptocurrency Platform.
 
-- 🌱 I’m currently learning **React Native, PHP, TypeScript, DSAs**
+- 🌱 I’m currently learning **React Native, TypeScript, DSAs**
 
 - 👯 I’m looking to collaborate on **Data Structure Game**
 
