@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, TypeScript, DSAs**
 
-- 👯 I’m looking to collaborate on **Data Structure Game**
+- 👯 I’m collaborating on **Landmark Application**
 
 - 🤝 I’m looking for help with **Finding my first tech job**
 
