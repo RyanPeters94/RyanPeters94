@@ -1,21 +1,19 @@
 [![MasterHead](https://user-images.githubusercontent.com/96092908/186485816-cecb5bd4-7657-4600-83c8-21d8d4ea4e7a.png)
 ](https://www.linkedin.com/in/ryan-ben-peters/)
 <h1 align="center">Hi 👋, I'm Ryan Peters</h1>
-<h3 align="center">A passionate Software Engineer from Santa Barbara, CA</h3>
+<h3 align="center">A passionate Software Engineer from Santa Barbara, CA </h3>
 <img align="right" alt="Coding" width= "400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanpeters94&label=Profile%20views&color=0e75b6&style=flat" alt="ryanpeters94" /> </p>
 
-- 🔭 I’m currently working on a Cryptocurrency Platform.
+- 🔭 I’m currently working as a Software Engineer for leading MarTech company Impact.com while working part-time as a mentor for emerging software engineers with Fullstack Academy.
 
-- 🌱 I’m currently learning **React Native, TypeScript, DSAs**
+- 🌱 I’m currently learning **C++, TypeScript, DSA's**
 
-- 👯 I’m collaborating on **Landmark Application**
+- 👯 I’m collaborating on **Winds of Time Naval Combat RPG**
 
-- 🤝 I’m looking for help with **Finding my first tech job**
+- 👨‍💻 All of my projects are available at https://ryanpeters.tech/ **Currently Hosting is suspended**
 
-- 👨‍💻 All of my projects are available at https://ryanpeters.tech/
-
-- 💬 Ask me about **React, JavaScript, PSQL**
+- 💬 Ask me about **React, Vuejs, JavaScript, PSQL, or anything in the software engineering space**
 
 - 📫 How to reach me **ryan.ben.peters@gmail.com**
 
