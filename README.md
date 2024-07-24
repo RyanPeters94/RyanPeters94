@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width= "400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanpeters94&label=Profile%20views&color=0e75b6&style=flat" alt="ryanpeters94" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer for leading MarTech company Impact.com while working part-time as a mentor for emerging software engineers with Fullstack Academy.
+- 🔭 I’m currently working as a Software Engineer for leading MarTech company Impact.com while working part-time as a teaching assistant for emerging software engineers with Fullstack Academy.
 
-- 🌱 I’m currently learning **C++, TypeScript, DSA's**
+- 🌱 I’m currently learning **C++, TypeScript, DSA's, and Python**
 
-- 👯 I’m collaborating on **Winds of Time Naval Combat RPG**
+- 👯 I’m collaborating on **Winds of Time Naval Combat RPG and Will I Interview Web App**
 
 - 👨‍💻 All of my projects are available at https://ryanpeters.tech/ **Currently Hosting is suspended**
 
